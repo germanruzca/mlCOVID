@@ -11,7 +11,7 @@ Repositorio para el proyecto de investigacion sobre los casos de COVID-19, un mo
 - urllib
 - zipfile
 
-[CODIGO EN COLAB](https://colab.research.google.com/drive/1DudSg2FIfn2T1xr8zIzFOtylRCWKDrBL?authuser=1#scrollTo=peUHIqAbVxfv)
+<a href="https://colab.research.google.com/drive/1DudSg2FIfn2T1xr8zIzFOtylRCWKDrBL?authuser=1#scrollTo=peUHIqAbVxfv" target="_blank">CODIGO EN COLAB</a>
 
 ## Introduccion.
 

@@ -12,6 +12,7 @@ Repositorio para el proyecto de investigacion sobre los casos de COVID-19, un mo
 - zipfile
 
 <a href="https://colab.research.google.com/drive/1DudSg2FIfn2T1xr8zIzFOtylRCWKDrBL?authuser=1#scrollTo=peUHIqAbVxfv" target="_blank">CODIGO EN COLAB</a>
+
 <a href="https://colab.research.google.com/drive/1_vT7xMTbRfzLHIqJBLXDEDR1vySUZlpD?usp=sharing" target="_blank">NUEVO CODIGO EN COLAB</a>
 
 

@@ -12,6 +12,8 @@ Repositorio para el proyecto de investigacion sobre los casos de COVID-19, un mo
 - zipfile
 
 <a href="https://colab.research.google.com/drive/1DudSg2FIfn2T1xr8zIzFOtylRCWKDrBL?authuser=1#scrollTo=peUHIqAbVxfv" target="_blank">CODIGO EN COLAB</a>
+<a href="https://colab.research.google.com/drive/1_vT7xMTbRfzLHIqJBLXDEDR1vySUZlpD?usp=sharing" target="_blank">NUEVO CODIGO EN COLAB</a>
+
 
 ## Introduccion.
 
@@ -22,5 +24,4 @@ En el año 2020 se marco como una evento historico, la pandemia llego de forma g
 Dia con dia el Gobierno de Mexico lanza un [DataSet](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico) nueva informacion sobre los nuevos y posibles casos de Covid-19. Este dataset cuenta con mas de 10 millones de registros. En el se tiene las siguientes variables [Abrir enlace](md/variable.md)
 
 
-![image](https://user-images.githubusercontent.com/43076503/132793323-4e3bc99d-08e9-4e1a-aa66-abe016203ff5.png)
 
